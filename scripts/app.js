@@ -5,7 +5,6 @@ const time = document.querySelector("img.time");
 const icon = document.querySelector(".icon img");
 
 const updateUI = (data) => {
-  //     console.log(data);
   //   const cityDets = data.cityDets;
   //   const weather = data.weather;
 
